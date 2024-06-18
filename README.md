@@ -9,7 +9,7 @@ I participated in the engineering co-op program at Tampa Electric. Before finish
 sister company of Tampa Electric, hired me. That was around 1993.
 
 Since then I've worked for early internet startups (late 90s), IoT and GIS startups, early AI and machine vision startups, and several fin-techs. 
-I also owned and operated a small software design consulting firm for 18 years. Today I work as a Cloud Solutions Architect at [Insight](https://www.insight.com/), 
+I also owned and operated a small software engineering consulting firm for 18 years. Today I work as a Cloud Solutions Architect at [Insight](https://www.insight.com/), 
 which is a fancy way of saying I help clients design and build distributed 
 software systems for AWS and M$FT Azure. I have achieved [George Constanza's dream](https://www.youtube.com/watch?v=ZI_hOP_K6MY).
 
