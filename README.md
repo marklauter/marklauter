@@ -9,7 +9,7 @@ I participated in the engineering co-op program at Tampa Electric. Before finish
 sister company of Tampa Electric, hired me. That was around 1993.
 
 Since then I've worked for early internet startups (late 90s), IoT and GIS startups, early AI and machine vision startups, and several fin-techs. 
-I also owned and operated a small consulting firm for 18 years.
+I also owned and operated a small software design consulting firm for 18 years.
 
 In 1996 I wrote my first domain-specific programming language (DSL) for an electric utility billing report system. In 1998 I wrote my second DSL 
 for server-side dynamic HTML rendering. And in 2008 I wrote a GIS query DSL for a custom GIS database with temporal-spatial sharding.
