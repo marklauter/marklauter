@@ -4,7 +4,7 @@ Cloud Solutions Architect at Insight
 ## Introduction
 I was introduced to programming and the lambda calculus in 4th grade. That was 1978. I've been addicted ever since.
 In 1987, right after high school, I volunteered to serve in the US Army where I crewed Cobra attack helicopters.
-When I finally grew tired of the long camping trips to the desert, I came home and got started in community college. Between semesters, 
+When I finally grew tired of the long camping trips to the desert, I came home, shook the rust off my brain, and got started in community college. Between semesters, 
 I participated in the engineering co-op program at Tampa Electric. Before finishing my two-year degree, TeCom, a 
 sister company of Tampa Electric, hired me. That was around 1993.
 
