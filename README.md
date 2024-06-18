@@ -2,16 +2,18 @@
 Cloud Solutions Architect at [Insight](https://www.insight.com/)
 
 ## Introduction
-I was introduced to programming and the lambda calculus in 4th grade. That was 1978. I've been addicted ever since.
-In 1987, right after high school, I volunteered to serve in the US Army where I crewed Cobra attack helicopters.
-When I finally grew tired of the long camping trips to the desert, I came home, shook the rust off my brain, and got started in community college. Between semesters, 
-I participated in the engineering co-op program at Tampa Electric. Before finishing my two-year degree, TeCom, a 
-sister company of Tampa Electric, hired me. That was around 1993.
+These days I'm Cloud Solutions Architect at [Insight](https://www.insight.com/). 
+That's a fancy way to say I design and build cloud-based distributed software systems for my clients.
+I have achieved [George Constanza's dream](https://www.youtube.com/watch?v=ZI_hOP_K6MY).
+
+When I was 9 years old, I was introduced to computer programming and the lambda calculus. That was way back in 1978.
+Right after high school, I volunteered to serve in the US Army where I crewed Cobra attack helicopters. 
+When the glamor of extended camping trips in the desert wore off, I came home, shook the rust off my brain, and headed back to school. 
+I was fortunate enough to participate in the engineering co-op program at Tampa Electric. Before finishing my two-year degree, TeCom, a 
+sister company of Tampa Electric, hired me as a software engineer. That was around 1993.
 
 Since then I've worked for early internet startups (late 90s), IoT and GIS startups, early AI and machine vision startups, and several fin-techs. 
-I also owned and operated a small software engineering consulting firm for 18 years. Today I work as a Cloud Solutions Architect at [Insight](https://www.insight.com/), 
-which is a fancy way of saying I help clients design and build distributed 
-software systems for AWS and M$FT Azure. I have achieved [George Constanza's dream](https://www.youtube.com/watch?v=ZI_hOP_K6MY).
+I also owned and operated a small software engineering consulting firm for 18 years. 
 
 In 1996 I wrote my first domain-specific programming language (DSL) for an electric utility billing report system. In 1998 I wrote my second DSL 
 for server-side dynamic HTML rendering. And in 2008 I wrote a GIS query DSL for a custom GIS database with temporal-spatial sharding.
