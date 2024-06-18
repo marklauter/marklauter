@@ -8,7 +8,7 @@ When I finally grew tired of the long camping trips to the desert, I came home a
 I participated in the engineering co-op program at Tampa Electric. Before finishing my two-year degree, TeCom, a 
 sister company of Tampa Electric, hired me. That was around 1993.
 
-Since then I've worked for early internet startups (late 90s), IoT and GIS startups, early AI and machine vision startups, and fin-tech. 
+Since then I've worked for early internet startups (late 90s), IoT and GIS startups, early AI and machine vision startups, and major fin-techs. 
 I also owned and operated a small consulting firm for 18 years.
 
 In 1996 I wrote my first domain-specific programming language (DSL) for an electric utility billing report system. In 1998 I wrote my second DSL 
