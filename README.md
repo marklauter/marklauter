@@ -16,7 +16,7 @@ for server-side dynamic HTML rendering. And in 2008 I wrote a GIS query DSL for 
 
 I have programmed professionally in BASIC, FORTRAN, C, C++, Delhpi, C#, VB.Net, JavaScript, TypeScript, Python, Perl, LISP, and many less relevant languages like Object PAL. 
 If I had to pick a favorite, C# and C would both be in the running. These days I'm trying to catch up with functional programming and 
-writing a storage engine.
+writing a property graph storage engine (like Neo4j).
 
 Today I work as a Cloud Solutions Architect at Insight, which is a fancy way of saying I help clients design and build distributed 
 software systems for AWS and M$FT Azure. I have achieved [George Constanza's dream](https://www.youtube.com/watch?v=ZI_hOP_K6MY).
