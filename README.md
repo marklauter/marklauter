@@ -1,5 +1,5 @@
 # Mark Lauter
-Cloud Solutions Architect at Insight
+Cloud Solutions Architect at [Insight](https://www.insight.com/)
 
 ## Introduction
 I was introduced to programming and the lambda calculus in 4th grade. That was 1978. I've been addicted ever since.
@@ -9,7 +9,9 @@ I participated in the engineering co-op program at Tampa Electric. Before finish
 sister company of Tampa Electric, hired me. That was around 1993.
 
 Since then I've worked for early internet startups (late 90s), IoT and GIS startups, early AI and machine vision startups, and several fin-techs. 
-I also owned and operated a small software design consulting firm for 18 years.
+I also owned and operated a small software design consulting firm for 18 years. Today I work as a Cloud Solutions Architect at [Insight](https://www.insight.com/), 
+which is a fancy way of saying I help clients design and build distributed 
+software systems for AWS and M$FT Azure. I have achieved [George Constanza's dream](https://www.youtube.com/watch?v=ZI_hOP_K6MY).
 
 In 1996 I wrote my first domain-specific programming language (DSL) for an electric utility billing report system. In 1998 I wrote my second DSL 
 for server-side dynamic HTML rendering. And in 2008 I wrote a GIS query DSL for a custom GIS database with temporal-spatial sharding.
@@ -17,9 +19,6 @@ for server-side dynamic HTML rendering. And in 2008 I wrote a GIS query DSL for 
 I have programmed professionally in BASIC, FORTRAN, C, C++, Delhpi, C#, VB.Net, JavaScript, TypeScript, Python, Perl, LISP, and many less relevant languages like Object PAL. 
 If I had to pick a favorite, C# and C would both be in the running. These days I'm trying to catch up with functional programming and 
 writing a property graph storage engine (like Neo4j).
-
-Today I work as a Cloud Solutions Architect at Insight, which is a fancy way of saying I help clients design and build distributed 
-software systems for AWS and M$FT Azure. I have achieved [George Constanza's dream](https://www.youtube.com/watch?v=ZI_hOP_K6MY).
 
 ## Github starters
 - 🔭 I’m currently writing a SQL parser to complete the Code Crafters SQLite challenge.
