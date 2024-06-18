@@ -16,7 +16,7 @@ software systems for AWS and M$FT Azure. I have achieved [George Constanza's dre
 In 1996 I wrote my first domain-specific programming language (DSL) for an electric utility billing report system. In 1998 I wrote my second DSL 
 for server-side dynamic HTML rendering. And in 2008 I wrote a GIS query DSL for a custom GIS database with temporal-spatial sharding.
 
-I have programmed professionally in BASIC, FORTRAN, C, C++, Delhpi, C#, VB.Net, JavaScript, TypeScript, Python, Perl, LISP, and many less relevant languages like Object PAL. 
+I have programmed professionally in BASIC, FORTRAN, C, C++, Delhpi, C#, VB.Net, Java, JavaScript, TypeScript, Python, Perl, LISP, and many less relevant languages like Object PAL. 
 If I had to pick a favorite, C# and C would both be in the running. These days I'm trying to catch up with functional programming and 
 writing a property graph storage engine (like Neo4j).
 
