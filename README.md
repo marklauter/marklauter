@@ -7,7 +7,7 @@ That's a fancy way to say I design and build [cloud-based](https://azure.microso
 I have achieved [George Constanza's dream](https://www.youtube.com/watch?v=ZI_hOP_K6MY).
 
 When I was 9, I was introduced to computer programming and the [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus). That was way back in 1978.
-Right after high school, I volunteered to serve in the [US Army](https://www.army.mil/) where I crewed [Cobra attack helicopters](https://www.bing.com/images/search?q=ah-1+cobra+attack+helicopter&qs=n&form=QBIR&sp=-1&lq=0&pq=ah-1+cobra+attack+helicopter&sc=10-28&cvid=66E21D638A584DE18367946F3660CB84&ghsh=0&ghacc=0&first=1). 
+After high school, I volunteered to serve in the [US Army](https://www.army.mil/) where I crewed [Cobra attack helicopters](https://www.bing.com/images/search?q=ah-1+cobra+attack+helicopter&qs=n&form=QBIR&sp=-1&lq=0&pq=ah-1+cobra+attack+helicopter&sc=10-28&cvid=66E21D638A584DE18367946F3660CB84&ghsh=0&ghacc=0&first=1). 
 
 When the glamor of [extended camping trips in the desert](https://upload.wikimedia.org/wikipedia/commons/1/1a/Fort_Irwin_National_Training_Center_-_Welcome_sign_-_1.jpg) wore off, I came [home](https://en.wikipedia.org/wiki/Florida), shook the rust off my brain, and headed back to school. 
 I was fortunate to participate in the engineering co-op program at [Tampa Electric](https://www.tampaelectric.com/). Before finishing my two-year degree, TeCom, a 
