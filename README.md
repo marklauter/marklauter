@@ -1,7 +1,7 @@
 # [Mark Lauter](https://www.linkedin.com/in/marklauter/)
 Cloud Solutions Architect at Insight ([Insight Home](https://www.insight.com/) [Insight LinkedIn](https://www.linkedin.com/company/insight/))
 
-## Introduction
+## My Life Story in 5 Short Paragraphs
 These days I'm Cloud Solutions Architect at [Insight](https://www.insight.com/). 
 That's a fancy way to say I design and build cloud-based distributed software systems for my clients.
 I have achieved [George Constanza's dream](https://www.youtube.com/watch?v=ZI_hOP_K6MY). LinkedIn even sends me job notices for architectural firms.
