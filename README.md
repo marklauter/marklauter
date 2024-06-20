@@ -23,8 +23,8 @@ If I had to pick a favorite, C# and C would both be in the running. These days I
 writing a property graph storage engine (like Neo4j).
 
 ## Github starters
-- 🔭 I’m writing a SQL parser to complete the Code Crafters SQLite challenge.
-- 🌱 I’m learning about category theory.
+- 🔭 I’m writing a [SQL parser](https://github.com/marklauter/sql-parser) with [Superpower](https://github.com/datalust/superpower) to complete the Code Crafters SQLite challenge.
+- 🌱 I’m learning about category theory because monads make me happy.
 - 👯 I’m interested in collaborating on writing a graph database storage engine.
 - 🤔 I’m looking for help with understanding how database transactions interact with the buffer pool and write-ahead log.
 - 💬 Ask me about whatever.
