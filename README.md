@@ -6,7 +6,7 @@ These days I'm Cloud Solutions Architect at [Insight](https://www.insight.com/).
 That's a fancy way to say I design and build [cloud-based](https://azure.microsoft.com/) distributed software systems for my clients.
 I have achieved [George Constanza's dream](https://www.youtube.com/watch?v=ZI_hOP_K6MY).
 
-When I was 9, I was introduced to computer programming and the [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus). That was way back in 1978.
+When I was 9, the Hillsborough County gifted program introduced me to computer programming and [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus). That was way back in 1978.
 After high school, I volunteered to serve in the [US Army](https://www.army.mil/) where I crewed [Cobra attack helicopters](https://www.bing.com/images/search?q=ah-1+cobra+attack+helicopter&qs=n&form=QBIR&sp=-1&lq=0&pq=ah-1+cobra+attack+helicopter&sc=10-28&cvid=66E21D638A584DE18367946F3660CB84&ghsh=0&ghacc=0&first=1). 
 
 When the glamor of [extended camping trips in the desert](https://upload.wikimedia.org/wikipedia/commons/1/1a/Fort_Irwin_National_Training_Center_-_Welcome_sign_-_1.jpg) wore off, I came [home](https://en.wikipedia.org/wiki/Florida), shook the rust off my brain, and headed back to school. 
@@ -14,9 +14,9 @@ I was fortunate to participate in the engineering co-op program at [Tampa Electr
 sister company of Tampa Electric, hired me as a software engineer. That was around 1993.
 
 Since then I've worked for early internet startups (late 90s), IoT and GIS startups, early AI and machine vision startups, and several fin-techs. 
-I also owned and operated a [small software engineering consulting firm](https://www.linkedin.com/company/sumo-software-corporation/) for 18 years. 
+I also owned a [small software engineering consulting firm](https://www.linkedin.com/company/sumo-software-corporation/) for 18 years. 
 
-In 1996 I wrote my first domain-specific programming language (DSL) for an electric utility billing system. In 1998 I wrote a second DSL 
+I wrote my first domain-specific programming language (DSL) for an electric utility billing system in 1996. In 1998 I wrote a second DSL 
 for server-side dynamic HTML rendering. And in 2008 I wrote a GIS query DSL for a custom GIS database with temporal-spatial sharding.
 
 I have programmed professionally in BASIC, FORTRAN, C, C++, Delhpi, C#, VB.Net, Java, JavaScript, TypeScript, Python, Perl, LISP, and many less relevant languages like Object PAL. 
