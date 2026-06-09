@@ -11,13 +11,13 @@ Two things I'd welcome help with:
 - A collaborator on the graph storage engine.
 - A clean explanation of how database transactions coordinate the buffer pool and the write-ahead log.
 
-## Languages are graphs
+## I like expression trees
 
 I wrote my first domain-specific language in 1996, for an electric utility billing system. A second followed in 1998, for server-side dynamic HTML rendering. A third in 2008: a query language for a custom GIS database with temporal-spatial sharding.
 
 I've programmed professionally in FORTRAN, C, C++, Delphi, C#, BASIC, VB.Net, Java, JavaScript, TypeScript, Python, Perl, LISP, and a few obscurities like Object PAL. Pressed for a favorite, I'd name C# and C. Lately I'm catching up on functional programming, because monads make me happy.
 
-## From attack helicopters to cloud architecture
+## I like things that fly
 
 Hillsborough County's gifted program introduced me to computer programming and [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) when I was nine. That was 1978.
 
